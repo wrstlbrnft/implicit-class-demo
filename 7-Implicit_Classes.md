@@ -13,6 +13,11 @@ Implicit class extending the API of our `Cat` [CatSyntax.scala](src/main/scala/c
 
 Using that new API in the code looks a lot more Scala-like [RichCats.scala](src/main/scala/com/leonteq/demo/cats/RichCats.scala)
 
+
+## ScalaPB
+Provides a very similar API - use this if it's compatible with your project
+[ScalaPbCats.scala](src/main/scala/com/leonteq/demo/cats/ScalaPbCats.scala)
+
 #
 #
 [next](8-Second_Example.md)
