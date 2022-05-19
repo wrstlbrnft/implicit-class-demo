@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+package com.leonteq.demo;
+
+message Cat {
+  optional string name   = 1;
+  optional Cat    mother = 2;
+}
