@@ -5,3 +5,11 @@
 /target/global-logging/
 /target/scala-2.13/classes/
 /target/streams/
+
+.bsp/
+.bloop/
+.idea/*
+.metals/
+**metals.sbt
+target/
+**/.DS_Store
